@@ -13,7 +13,6 @@
   <a href="https://x.com/vehbioztomurcuk"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.instagram.com/vehbitter"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.twitch.tv/Lbitter"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="https://github.com/vehbioztomurcuk"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 
