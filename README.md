@@ -1,6 +1,6 @@
 <h1 align="center">👋 hi, i’m <span style="color:#0458c4">vehbi öztomurcuk</span></h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vehbioztomurcuk/vehbitter/refs/heads/main/welcome22.png" alt="Vehbi Öztomurcuk Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/vehbioztomurcuk/vehbioztomurcuk/refs/heads/main/dsfdasgads.png" alt="Vehbi Öztomurcuk Banner" width="100%" />
 </p>
 
 
