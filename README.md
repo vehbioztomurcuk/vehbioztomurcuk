@@ -25,5 +25,5 @@
 ---
 
 <p align="center">
-  <i>“yet it moves.”</i>
+  <i>"And yet it moves"</i>
 </p>
