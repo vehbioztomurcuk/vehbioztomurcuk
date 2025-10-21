@@ -4,7 +4,6 @@
 </p>
 
 
-<h3 align="center">connect with me</h3>
 
 <p align="center">
   <a href="https://vehbi.co" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
