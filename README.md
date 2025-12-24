@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/vehbi-%C3%B6ztomurcuk-198037172/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/vehbioztomurcuk"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.instagram.com/vehbitter"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.twitch.tv/Lbitter"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="https://www.twitch.tv/bitter0001"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </p>
 
 
