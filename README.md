@@ -1,11 +1,5 @@
 <h1 align="center">hi</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vehbioztomurcuk/vehbioztomurcuk/refs/heads/main/dsfdasgads.png" alt="Vehbi Öztomurcuk Banner" width="100%" />
-</p>
-
-
-
-<p align="center">
   <a href="https://vehbi.co" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="mailto:hey@vehbi.co"><img alt="Email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vehbi-%C3%B6ztomurcuk-198037172/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
