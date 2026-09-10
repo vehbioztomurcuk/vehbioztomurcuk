@@ -16,7 +16,3 @@
 `JS frameworks` · `Python` · `Next.js` · `Node.js` · `Bash` · `SQL` · `Linux (Deb)` · `Ops` · `Cloudflare` · `Chrome Extensions` · `Arduino` · `Edge AI` · `Accidental SaaS`  ·  `Premiere` · `Photoshop`· `🤖 Any LLM ever existed`  
 
 ---
-
-<p align="center">
-  <i>"And yet it moves"</i>
-</p>
